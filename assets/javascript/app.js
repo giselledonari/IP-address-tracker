@@ -4,7 +4,7 @@ let dibujarMapa=(long,lat)=>{
     document.querySelector("#mapas").innerHTML=`<div id="map" class="map"></div>`
     map = L.map('map').setView([long, lat], 13);
     let blackMarker=L.icon({
-        iconUrl:"../images/icon-location.svg"
+        iconUrl:"./assets/images/icon-location.svg"
     })
     let marker = L.marker([long, lat],{icon:blackMarker}).addTo(map);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
