@@ -12,7 +12,7 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -27,11 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](../assets/images/mySolution.PNG)
+![](./assets/images/mySolution.PNG)
 
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
